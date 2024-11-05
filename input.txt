@@ -1,14 +1,10 @@
-6
-3
-ABA
-1
-A
-3
-ORZ
-5
-BAAAA
-4
-BKPT
-10
-CODEFORCES
+Jaynal Abdin
+101
+96
+Gias Uddin
+102
+86
+Shahidul Islam Babu
+105
+98
 

@@ -35,7 +35,10 @@ int main()
     {
         if (frq[i].cnt > 0)
         {
-            cout << frq[i].c << " " << frq[i].cnt << endl;
+            for (int j = 0; j < frq[i].cnt; j++)
+            {
+                cout << frq[i].c;
+            }
         }
     }
 
